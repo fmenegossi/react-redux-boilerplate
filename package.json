@@ -1,7 +1,10 @@
 {
-  "name": "react-redux-typescript-boilerplate",
+  "name": "react-redux-boilerplate",
   "version": "0.1.0",
-  "private": true,
+  "author": "Felipe Menegossi<felipe.menegossi@gmail.com>",
+  "description": "React-Redux boilerplate using TypeScript",
+  "private": false,
+  "license": "UNLICENSED",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
